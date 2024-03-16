@@ -1,7 +1,3 @@
-/*
-* Working!!!! change Lab2 git to this code!!!
-* */
-
 package com.distributedSystems.Banking;
 
 import jakarta.persistence.Entity;
